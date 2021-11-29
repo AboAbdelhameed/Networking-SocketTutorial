@@ -6,7 +6,7 @@
 
 2. Open the project folder (using Visual Studio Code or Explorer Folder for windows and Finder for MacOs)
 
-3. Open terminal and open the terminal (cmd for windows) move to the project folder using cd keyword.
+3. Open terminal (cmd for windows) move to the project folder using cd keyword.
 
 4. To compile the java classes run: javac -d bin/ *.java (prepare the java code to run it).
         Note: The classes files stored in the bin folder .
