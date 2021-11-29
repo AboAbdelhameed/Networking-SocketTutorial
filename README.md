@@ -11,9 +11,9 @@
 1. To compile ((prepare the java code to run it).) the java classes run: <br/>
 &emsp;&emsp;javac -d bin/ *.java 
 <br/><br/>
-&emsp;&emsp;***Note:*** The classes files stored in the bin folder.
+***Note:*** The classes files stored in the bin folder.
 <br/><br/>
-5.  To run the Server side run: <br/>
+1.  To run the Server side run: <br/>
 &emsp;&emsp;java MyServer
 <br/><br/>
 6. Now the server will be available for 1 minutes.
