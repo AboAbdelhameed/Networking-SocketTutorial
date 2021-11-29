@@ -1,6 +1,6 @@
 # Networking-SocketTutorial
 
-## To run this project on your machin
+## To run this project on your machine
 1. Clone the repo into your local machine using: 
         git clone https://github.com/AboAbdelhameed/Networking-SocketTutorial.git
 
